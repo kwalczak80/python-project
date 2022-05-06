@@ -1,1 +1,0 @@
-![Diagram](assets/images/guess_the_word_diagram.jpeg "Diagram")
